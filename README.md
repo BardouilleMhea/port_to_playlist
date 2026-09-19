@@ -109,7 +109,7 @@ Loads `features_eda_clean.csv` and produces `cluster_assignments.csv`, `cluster_
 
 ## Citation
 
-Thesis citation: `<THESIS_CITATION>`
+Thesis citation: Bardouille, M. (2026). From Port to Playlist: Acoustic Overlap and Timbral Divergence in Caribbean and West African Music [Master's thesis, STRUCTURALIA].
 
 Repository: `<GITHUB_URL>`
 Release tag: `<RELEASE_TAG>`
