@@ -113,7 +113,8 @@ Thesis citation: Bardouille, M. (2026). From Port to Playlist: Acoustic Overlap 
 
 Repository: https://github.com/BardouilleMhea/port_to_playlist
 Release tag: v1.0.0
-Zenodo DOI: `<ZENODO_DOI>`
+Zenodo DOI: https://doi.org/10.5281/zenodo.22848665
+
 
 ## License
 
