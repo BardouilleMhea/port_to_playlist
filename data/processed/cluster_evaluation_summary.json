@@ -1,0 +1,13 @@
+{
+  "pca_variance_first_3_components": 0.33439214456715083,
+  "pca_variance_target": 0.6,
+  "pca_variance_pass": false,
+  "kmeans_k": 8,
+  "kmeans_silhouette_score": 0.050729746985081065,
+  "hac_silhouette_score": 0.03172110943717935,
+  "silhouette_target": 0.4,
+  "kmeans_silhouette_pass": false,
+  "hac_silhouette_pass": false,
+  "silhouette_optimal_k": 2,
+  "silhouette_optimal_k_score": 0.1345635156787658
+}

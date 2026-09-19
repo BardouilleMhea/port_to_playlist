@@ -1,0 +1,43 @@
+Feature,Dimension,Test,Statistic,p-value,Cohen's d,Magnitude,Direction,Adj. p (Bonferroni),Significant
+rms_mean,Dynamics,Mann-Whitney U,17591.0,0.001376,0.337,small,caribbean higher,0.057792,No
+beat_count,Duration,Mann-Whitney U,17135.0,0.006594,0.312,small,caribbean higher,0.276948,No
+mean_ibi_sec,Duration,Mann-Whitney U,12050.0,0.007287,-0.259,small,westafrica higher,0.306054,No
+tempo_bpm,Tempo,Mann-Whitney U,17070.5,0.007908,0.316,small,caribbean higher,0.332136,No
+chroma_A,—,t-test,2.546,0.011298,0.285,small,caribbean higher,0.474516,No
+chroma_F#,—,t-test,2.525,0.011987,0.282,small,caribbean higher,0.503454,No
+onsets_per_second,—,Welch t-test,-2.225,0.027267,-0.274,small,westafrica higher,1.0,No
+chroma_G#,—,Mann-Whitney U,16597.0,0.032033,0.263,small,caribbean higher,1.0,No
+chroma_G,—,t-test,2.123,0.034461,0.237,small,caribbean higher,1.0,No
+mfcc_13_mean,—,Mann-Whitney U,16363.0,0.058025,0.178,negligible,caribbean higher,1.0,No
+chroma_E,—,Mann-Whitney U,16302.0,0.06714,0.249,small,caribbean higher,1.0,No
+chroma_D#,—,Mann-Whitney U,16245.0,0.076693,0.209,small,caribbean higher,1.0,No
+chroma_A#,—,Mann-Whitney U,16199.0,0.085186,0.225,small,caribbean higher,1.0,No
+ibi_std_sec,—,Mann-Whitney U,13065.0,0.10836,-0.191,negligible,westafrica higher,1.0,No
+chroma_F,—,Mann-Whitney U,15988.0,0.134317,0.189,negligible,caribbean higher,1.0,No
+rms_std,—,Mann-Whitney U,15835.0,0.181934,0.169,negligible,caribbean higher,1.0,No
+mfcc_8_mean,—,t-test,1.271,0.20463,0.142,negligible,caribbean higher,1.0,No
+chroma_C#,—,Mann-Whitney U,15558.0,0.298027,0.099,negligible,caribbean higher,1.0,No
+ssm_mean_affinity,—,Welch t-test,-0.973,0.331412,-0.101,negligible,westafrica higher,1.0,No
+mfcc_4_mean,—,t-test,-0.916,0.360177,-0.102,negligible,westafrica higher,1.0,No
+mfcc_7_mean,—,Mann-Whitney U,15429.0,0.366162,0.077,negligible,caribbean higher,1.0,No
+chroma_D,—,Mann-Whitney U,15286.0,0.452151,0.116,negligible,caribbean higher,1.0,No
+mfcc_6_mean,—,t-test,-0.724,0.469494,-0.081,negligible,westafrica higher,1.0,No
+dynamic_range_db,Dynamics,Mann-Whitney U,15254.0,0.472849,-0.162,negligible,westafrica higher,1.0,No
+chroma_B,—,Mann-Whitney U,15186.0,0.518511,0.048,negligible,caribbean higher,1.0,No
+mean_beat_strength,—,Mann-Whitney U,14971.0,0.676436,0.12,negligible,caribbean higher,1.0,No
+key_correlation,Pitch,t-test,-0.392,0.695147,-0.044,negligible,westafrica higher,1.0,No
+log_attack_time_ms,—,Mann-Whitney U,14933.0,0.706189,0.017,negligible,caribbean higher,1.0,No
+spectral_flux_mean,—,Welch t-test,-0.204,0.838872,-0.025,negligible,westafrica higher,1.0,No
+chroma_C,—,t-test,0.145,0.884469,0.016,negligible,caribbean higher,1.0,No
+mfcc_5_mean,—,Mann-Whitney U,14579.0,0.999153,-0.031,negligible,westafrica higher,1.0,No
+spectral_centroid_mean,Timbre,Mann-Whitney U,19809.0,0.0,0.647,medium,caribbean higher,0.0,Yes
+mfcc_2_mean,—,Mann-Whitney U,8988.0,0.0,-0.708,medium,westafrica higher,0.0,Yes
+textural_grain_mean,—,Mann-Whitney U,19248.0,1e-06,0.521,medium,caribbean higher,4.2e-05,Yes
+mfcc_1_mean,—,Mann-Whitney U,18567.0,2.3e-05,0.553,medium,caribbean higher,0.000966,Yes
+spectral_bandwidth_mean,Timbre,Mann-Whitney U,18339.0,6.5e-05,0.484,small,caribbean higher,0.00273,Yes
+mfcc_3_mean,—,Mann-Whitney U,10996.0,0.000143,-0.473,small,westafrica higher,0.006006,Yes
+mfcc_9_mean,—,Mann-Whitney U,18101.0,0.000183,0.421,small,caribbean higher,0.007686,Yes
+mfcc_10_mean,—,Mann-Whitney U,18081.0,0.000199,0.465,small,caribbean higher,0.008358,Yes
+mfcc_12_mean,—,Mann-Whitney U,17831.0,0.000552,0.422,small,caribbean higher,0.023184,Yes
+lufs_integrated,Dynamics,Mann-Whitney U,17723.0,0.000839,0.341,small,caribbean higher,0.035238,Yes
+mfcc_11_mean,—,t-test,3.271,0.001174,0.366,small,caribbean higher,0.049308,Yes

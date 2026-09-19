@@ -1,0 +1,2 @@
+Features dropped for near-zero variance:
+- segment_count (variance=0)

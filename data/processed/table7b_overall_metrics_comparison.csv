@@ -1,0 +1,5 @@
+Metric,Baseline,Balanced,Delta
+Accuracy,0.7253,0.7308,0.0055
+Balanced Accuracy,0.6187,0.6185,-0.0002
+Macro F1,0.6224,0.6208,-0.0016
+Weighted F1,0.6906,0.6915,0.0009

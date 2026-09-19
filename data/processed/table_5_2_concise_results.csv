@@ -1,0 +1,11 @@
+Dimension,Feature,p-value,Cohen's d
+Dynamics,lufs_integrated,0.0008***,0.3319
+Texture,textural_grain_mean,7.08e-07***,0.5262
+Timbre,spectral_centroid_mean,4.49e-07***,0.6137
+Timbre,mfcc_1_mean,1.35e-05***,0.5245
+Timbre,mfcc_10_mean,0.0002***,0.456
+Timbre,spectral_bandwidth_mean,6.50e-05***,0.4555
+Timbre,mfcc_12_mean,0.0006***,0.4235
+Timbre,mfcc_9_mean,0.0002***,0.4189
+Timbre,mfcc_3_mean,0.0001***,-0.4732
+Timbre,mfcc_2_mean,3.18e-08***,-0.6744

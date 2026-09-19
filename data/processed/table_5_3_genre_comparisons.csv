@@ -1,0 +1,43 @@
+Feature,Dimension,Test,Statistic,p-value,Adj. p (Bonferroni),Significant
+key_correlation,Pitch,One-way ANOVA,3.463,0.001332,0.055944,No
+mfcc_3_mean,—,Kruskal-Wallis,23.112,0.00163,0.06846,No
+mfcc_10_mean,—,Kruskal-Wallis,23.0,0.001704,0.071568,No
+chroma_B,—,Kruskal-Wallis,22.735,0.001895,0.07959,No
+mfcc_5_mean,—,Kruskal-Wallis,20.174,0.005207,0.218694,No
+chroma_A,—,One-way ANOVA,2.89,0.005989,0.251538,No
+mfcc_13_mean,—,Kruskal-Wallis,16.957,0.017675,0.74235,No
+mfcc_4_mean,—,One-way ANOVA,2.354,0.023168,0.973056,No
+mfcc_7_mean,—,Kruskal-Wallis,11.128,0.133151,1.0,No
+mfcc_8_mean,—,One-way ANOVA,1.596,0.135288,1.0,No
+mfcc_6_mean,—,One-way ANOVA,1.36,0.221153,1.0,No
+log_attack_time_ms,—,Kruskal-Wallis,8.432,0.296058,1.0,No
+mean_beat_strength,—,Kruskal-Wallis,62.702,0.0,0.0,Yes
+rms_mean,Dynamics,Kruskal-Wallis,53.584,0.0,0.0,Yes
+rms_std,—,Kruskal-Wallis,44.299,0.0,0.0,Yes
+lufs_integrated,Dynamics,Kruskal-Wallis,53.246,0.0,0.0,Yes
+spectral_centroid_mean,Timbre,Kruskal-Wallis,59.398,0.0,0.0,Yes
+spectral_flux_mean,—,One-way ANOVA,10.097,0.0,0.0,Yes
+mfcc_1_mean,—,Kruskal-Wallis,64.272,0.0,0.0,Yes
+mfcc_2_mean,—,Kruskal-Wallis,62.781,0.0,0.0,Yes
+onsets_per_second,—,One-way ANOVA,7.726,0.0,0.0,Yes
+textural_grain_mean,—,Kruskal-Wallis,65.153,0.0,0.0,Yes
+chroma_D#,—,Kruskal-Wallis,52.664,0.0,0.0,Yes
+chroma_G#,—,Kruskal-Wallis,43.075,0.0,0.0,Yes
+chroma_A#,—,Kruskal-Wallis,52.721,0.0,0.0,Yes
+mfcc_9_mean,—,Kruskal-Wallis,38.594,2e-06,8.4e-05,Yes
+chroma_G,—,One-way ANOVA,5.777,2e-06,8.4e-05,Yes
+mean_ibi_sec,Duration,Kruskal-Wallis,37.992,3e-06,0.000126,Yes
+tempo_bpm,Tempo,Kruskal-Wallis,36.809,5e-06,0.00021,Yes
+beat_count,Duration,Kruskal-Wallis,35.593,9e-06,0.000378,Yes
+spectral_bandwidth_mean,Timbre,Kruskal-Wallis,35.229,1e-05,0.00042,Yes
+chroma_C#,—,Kruskal-Wallis,33.525,2.1e-05,0.000882,Yes
+mfcc_12_mean,—,Kruskal-Wallis,33.079,2.6e-05,0.001092,Yes
+dynamic_range_db,Dynamics,Kruskal-Wallis,32.78,2.9e-05,0.001218,Yes
+chroma_F,—,Kruskal-Wallis,30.654,7.2e-05,0.003024,Yes
+ssm_mean_affinity,—,One-way ANOVA,4.063,0.000265,0.01113,Yes
+chroma_D,—,Kruskal-Wallis,26.611,0.000391,0.016422,Yes
+ibi_std_sec,—,Kruskal-Wallis,26.139,0.000476,0.019992,Yes
+chroma_E,—,Kruskal-Wallis,25.628,0.000587,0.024654,Yes
+chroma_F#,—,One-way ANOVA,3.752,0.000614,0.025788,Yes
+mfcc_11_mean,—,One-way ANOVA,3.569,0.001004,0.042168,Yes
+chroma_C,—,One-way ANOVA,3.556,0.001039,0.043638,Yes

@@ -1,0 +1,8 @@
+Dimension,Total Features,t-test / ANOVA (Parametric),Mann-Whitney / Kruskal (Non-Parametric)
+Duration,3,0,3
+Dynamics,4,0,4
+Pitch,13,5,8
+Structure,1,1,0
+Tempo,3,1,2
+Texture,1,0,1
+Timbre,17,5,12
